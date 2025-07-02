@@ -6,6 +6,25 @@
 
 ### Overview: This project involved comprehensive data analysis of the Mallcom India dataset using Microsoft Power BI, leveraging its intuitive interface and robust analytical capabilities.
 
+
+
+
+
+
+
+![Screenshot 2025-07-02 121120](https://github.com/user-attachments/assets/17a5d4b8-7a47-426e-9095-66c9fe394fa2)
+
+
+
+
+
+
+
+
+
+
+
+
 ### Data Preparation & Inspection (Power Query):
 
 -   Data Acquisition: Data imported from Excel via Get Data > Excel > Transform Data.
