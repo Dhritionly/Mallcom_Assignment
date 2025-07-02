@@ -1,12 +1,12 @@
-﻿Data Analysis with Power BI: Mallcom India Dataset
+# ﻿Data Analysis with Power BI: Mallcom India Dataset
 
-Analyst: Dhritimalya Dutta
+##  Analyst: Dhritimalya Dutta
 
-Contact: dhritimalyadutta@gmail.com
+## Contact: dhritimalyadutta@gmail.com
 
-Overview: This project involved comprehensive data analysis of the Mallcom India dataset using Microsoft Power BI, leveraging its intuitive interface and robust analytical capabilities.
+### Overview: This project involved comprehensive data analysis of the Mallcom India dataset using Microsoft Power BI, leveraging its intuitive interface and robust analytical capabilities.
 
-Data Preparation & Inspection (Power Query):
+### Data Preparation & Inspection (Power Query):
 
 -   Data Acquisition: Data imported from Excel via Get Data > Excel > Transform Data.
     
@@ -18,14 +18,14 @@ Data Preparation & Inspection (Power Query):
 -   Thoroughly inspected each column's distribution and characteristics using Column Profile.
     
 
-Data Formatting (Table View):
+### Data Formatting (Table View):
 
 -   Currency Conversion: 'Cogs', 'Profit', and 'Manufacturing Price' columns converted to Indian Rupees (INR) currency format.
     
 -   Number Formatting: 'Gross', 'Discount', 'Date', and 'Year' columns formatted appropriately as whole or decimal numbers.
     
 
-Key Visualizations (Report View):
+### Key Visualizations (Report View):
 
 The following visualizations were developed to gain insights from the data:
 
@@ -52,7 +52,7 @@ The following visualizations were developed to gain insights from the data:
 -   Profit per Product
     
 
-Key Insights:
+### Key Insights:
 
 Based on the analysis, the following valuable insights were identified:
 
@@ -69,7 +69,7 @@ Based on the analysis, the following valuable insights were identified:
 
   
 
-Hand Written Notes - [Mallcom_Assignment/Handwritten Notes .pdf at main · Dhritionly/Mallcom_Assignment](https://github.com/Dhritionly/Mallcom_Assignment/blob/main/Handwritten%20Notes%20.pdf)
+### Hand Written Notes - [Mallcom_Assignment/Handwritten Notes .pdf at main · Dhritionly/Mallcom_Assignment](https://github.com/Dhritionly/Mallcom_Assignment/blob/main/Handwritten%20Notes%20.pdf)
 
 
 
